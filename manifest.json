@@ -1,0 +1,24 @@
+{
+  "name": "Pregnancy Nutrition Tracker",
+  "short_name": "Nutrition Tracker",
+  "description": "Track daily nutrition during pregnancy with personalized recommendations",
+  "start_url": "./pregnancy-nutrition-tracker.html",
+  "display": "standalone",
+  "background_color": "#faf8f5",
+  "theme_color": "#d97757",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' fill='%23d97757'/><text x='96' y='140' font-size='120' text-anchor='middle'>🤰</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' fill='%23d97757'/><text x='256' y='380' font-size='320' text-anchor='middle'>🤰</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
